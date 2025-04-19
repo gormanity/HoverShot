@@ -1,5 +1,6 @@
 # Xcode
 <<<<<<< HEAD
+<<<<<<< HEAD
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
@@ -62,6 +63,8 @@ fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
 =======
+=======
+>>>>>>> a538927 (Initial commit: Xcode project setup for HoverShot)
 .DS_Store
 *.xcuserstate
 *.xcuserdatad
@@ -73,4 +76,7 @@ fastlane/test_output
 build/
 DerivedData/
 *.pbxproj -o !project.pbxproj
+<<<<<<< HEAD
+>>>>>>> a538927 (Initial commit: Xcode project setup for HoverShot)
+=======
 >>>>>>> a538927 (Initial commit: Xcode project setup for HoverShot)
